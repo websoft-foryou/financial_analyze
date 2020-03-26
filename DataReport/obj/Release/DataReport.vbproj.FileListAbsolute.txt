@@ -1,0 +1,41 @@
+E:\Project\vbnet\exercise\DataReport\DataReport\bin\Release\DataAnalyzer.exe.config
+E:\Project\vbnet\exercise\DataReport\DataReport\bin\Release\DataAnalyzer.exe
+E:\Project\vbnet\exercise\DataReport\DataReport\bin\Release\DataAnalyzer.pdb
+E:\Project\vbnet\exercise\DataReport\DataReport\bin\Release\DataAnalyzer.xml
+E:\Project\vbnet\exercise\DataReport\DataReport\bin\Release\ExcelDataReader.DataSet.dll
+E:\Project\vbnet\exercise\DataReport\DataReport\bin\Release\ExcelDataReader.dll
+E:\Project\vbnet\exercise\DataReport\DataReport\bin\Release\ExcelDataReader.pdb
+E:\Project\vbnet\exercise\DataReport\DataReport\bin\Release\ExcelDataReader.xml
+E:\Project\vbnet\exercise\DataReport\DataReport\bin\Release\ExcelDataReader.DataSet.pdb
+E:\Project\vbnet\exercise\DataReport\DataReport\bin\Release\ExcelDataReader.DataSet.xml
+E:\Project\vbnet\exercise\DataReport\DataReport\obj\Release\DataReport.vbprojAssemblyReference.cache
+E:\Project\vbnet\exercise\DataReport\DataReport\obj\Release\DataAnalyzer.frmOpenFile.resources
+E:\Project\vbnet\exercise\DataReport\DataReport\obj\Release\DataAnalyzer.mainForm.resources
+E:\Project\vbnet\exercise\DataReport\DataReport\obj\Release\DataAnalyzer.Resources.resources
+E:\Project\vbnet\exercise\DataReport\DataReport\obj\Release\DataReport.vbproj.GenerateResource.cache
+E:\Project\vbnet\exercise\DataReport\DataReport\obj\Release\DataReport.vbproj.CopyComplete
+E:\Project\vbnet\exercise\DataReport\DataReport\obj\Release\DataAnalyzer.exe
+E:\Project\vbnet\exercise\DataReport\DataReport\obj\Release\DataAnalyzer.xml
+E:\Project\vbnet\exercise\DataReport\DataReport\obj\Release\DataAnalyzer.pdb
+E:\Project\vbnet\exercise\DataReport - New\DataReport\bin\Release\DataAnalyzer.exe.config
+E:\Project\vbnet\exercise\DataReport - New\DataReport\bin\Release\DataAnalyzer.exe
+E:\Project\vbnet\exercise\DataReport - New\DataReport\bin\Release\DataAnalyzer.pdb
+E:\Project\vbnet\exercise\DataReport - New\DataReport\bin\Release\DataAnalyzer.xml
+E:\Project\vbnet\exercise\DataReport - New\DataReport\bin\Release\ExcelDataReader.DataSet.dll
+E:\Project\vbnet\exercise\DataReport - New\DataReport\bin\Release\ExcelDataReader.dll
+E:\Project\vbnet\exercise\DataReport - New\DataReport\bin\Release\ExcelDataReader.pdb
+E:\Project\vbnet\exercise\DataReport - New\DataReport\bin\Release\ExcelDataReader.xml
+E:\Project\vbnet\exercise\DataReport - New\DataReport\bin\Release\ExcelDataReader.DataSet.pdb
+E:\Project\vbnet\exercise\DataReport - New\DataReport\bin\Release\ExcelDataReader.DataSet.xml
+E:\Project\vbnet\exercise\DataReport - New\DataReport\obj\Release\DataReport.vbprojAssemblyReference.cache
+E:\Project\vbnet\exercise\DataReport - New\DataReport\obj\Release\DataAnalyzer.frmOpenFile.resources
+E:\Project\vbnet\exercise\DataReport - New\DataReport\obj\Release\DataAnalyzer.mainForm.resources
+E:\Project\vbnet\exercise\DataReport - New\DataReport\obj\Release\DataAnalyzer.Resources.resources
+E:\Project\vbnet\exercise\DataReport - New\DataReport\obj\Release\DataReport.vbproj.GenerateResource.cache
+E:\Project\vbnet\exercise\DataReport - New\DataReport\obj\Release\DataReport.vbproj.CopyComplete
+E:\Project\vbnet\exercise\DataReport - New\DataReport\obj\Release\DataAnalyzer.exe
+E:\Project\vbnet\exercise\DataReport - New\DataReport\obj\Release\DataAnalyzer.xml
+E:\Project\vbnet\exercise\DataReport - New\DataReport\obj\Release\DataAnalyzer.pdb
+E:\Project\vbnet\exercise\DataReport - New\DataReport\obj\Release\DataReport.vbproj.ResolveComReference.cache
+E:\Project\vbnet\exercise\DataReport - New\DataReport\bin\Release\itextsharp.dll
+E:\Project\vbnet\exercise\DataReport - New\DataReport\obj\Release\DataAnalyzer.frmViewDetail.resources
