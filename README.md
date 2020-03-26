@@ -10,25 +10,30 @@ Analysis App for financial. its feature is the following.
 
 # Getting Started
 1. Install App
- 
 
-2.  Software dependencies 
+   ● No install.
+   
+   ● Run DataAnalyzer.exe file.
+   
+2. Software dependencies 
 
-    Visual Studio 2019 (VB.NET)
+   ● Visual Studio 2019 (VB.NET)
+   
+   ● ExcelDataReader.DataSet.dll
     
-    ExcelDataReader.DataSet.dll
+   ● ExcelDataReader.dll
     
-    ExcelDataReader.dll
-    
-    itextsharp.dll
+   ● itextsharp.dll
 
 3. releases history
 
     2019/12/02
 
 4. API references
-    
+   No API.
 
 # Build and Test
+   
+   Open project and run with F5 key.
     
 
