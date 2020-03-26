@@ -10,20 +10,17 @@ Analysis App for financial. its feature is the following.
 
 # Getting Started
 1. Install App
-
-   # Running app
-     
-
-   # Stopping app
-	 
+ 
 
 2.  Software dependencies 
+
     Visual Studio 2019 VB.NET
     ExcelDataReader.DataSet.dll
     ExcelDataReader.dll
     itextsharp.dll
 
 3. releases history
+
     2019/12/02
 
 4. API references
