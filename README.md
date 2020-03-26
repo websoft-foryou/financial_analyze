@@ -14,9 +14,12 @@ Analysis App for financial. its feature is the following.
 
 2.  Software dependencies 
 
-    Visual Studio 2019 VB.NET
+    Visual Studio 2019 (VB.NET)
+    
     ExcelDataReader.DataSet.dll
+    
     ExcelDataReader.dll
+    
     itextsharp.dll
 
 3. releases history
